@@ -2,6 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+
+![Screenshot 2023-04-24 093509](https://user-images.githubusercontent.com/126922695/234060232-2f30e7f4-9eab-484d-a688-830a3a2f0b71.png)
+
+
+
 ## Link to my Employee Tracker
 
 https://drive.google.com/file/d/1dC5jr8C-kD4YvjVsdchdeAiWAOtwkvSv/view?usp=sharing
