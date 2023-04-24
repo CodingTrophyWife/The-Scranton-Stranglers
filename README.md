@@ -6,11 +6,21 @@
 
 https://drive.google.com/file/d/1dC5jr8C-kD4YvjVsdchdeAiWAOtwkvSv/view?usp=sharing
 
+
+##Table of Contents:
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [ShoutOuts](#shoutouts)
+- [Questions](#questions)
+
 ## Description:
 
 Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 
-## Shout Outs:
+## ShoutOuts:
 
 First and foremost Id like to thank The Office for even existing! 
 
